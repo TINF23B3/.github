@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Willkommen auf der GitHub-Seite des <b>TINF23B3-Kurs</b> (dem Mittwochsnachmittag-Lieblingskurs von Herr Röthig).<br><br>Hier organisieren wir unsere Studieninhalte!
+Willkommen auf der GitHub-Seite des <b>TINF23B3-Kurs</b> (dem Mittwochnachmittags-Lieblingskurs von Herr Röthig).<br><br>Hier organisieren wir unsere Studieninhalte!
 </p>
 
 
